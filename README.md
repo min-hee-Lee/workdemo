@@ -76,7 +76,7 @@
 
 ### 이미지(images)
 
-![naver](https://www.naver.com/)
+![naver](https://s.pstatic.net/static/newsstand/2022/1215/article_img/new_main/9001/091840_001.jpg)
 
 
   
